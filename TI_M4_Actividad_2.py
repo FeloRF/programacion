@@ -27,3 +27,5 @@ def sumar_numeros(suma_actual=0):
 # Llamar a la función y mostrar el resultado
 resultado = sumar_numeros()
 print("La suma total de los números ingresados es:", resultado)
+
+
